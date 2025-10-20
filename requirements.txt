@@ -1,0 +1,4 @@
+streamlit
+tensorflow>=2.10   # ya jis version par aapka model bana hai
+numpy
+Pillow
